@@ -1,0 +1,63 @@
+@media only screen and (max-width: 575px){
+	.banner-section {
+    background: url(../images/Bitmap.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 85px;
+    }
+	.main-section {
+    padding: 30px 20px;
+    }
+    .main-section .card-top {
+    position: relative;
+    bottom: 0;
+   }
+   .main-section .card-bottom {
+    position: relative;
+    bottom: 0;
+   }
+   .main-section .pl-0{
+   	padding-left: 15px !important;
+   	}
+   	.main-section .pr-0{
+   		padding-right: 15px !important;
+   	}
+}
+@media (min-width: 576px) and (max-width: 767px){
+	.banner-section {
+    background: url(../images/Bitmap.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 170px;
+    }
+    .main-section {
+    padding: 30px 20px;
+    }
+    .main-section .card-top {
+    position: relative;
+    bottom: 0;
+   }
+   .main-section .card-bottom {
+    position: relative;
+    bottom: 0;
+   }
+   .main-section .pl-0{
+   	padding-left: 15px !important;
+   	}
+   	.main-section .pr-0{
+   		padding-right: 15px !important;
+   	}
+
+}
+@media (min-width: 768px) and (max-width: 992px){
+	.banner-section {
+    background: url(../images/Bitmap.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 190px;
+    }
+	.main-section {
+    padding: 30px 10px;
+}
+
+}
